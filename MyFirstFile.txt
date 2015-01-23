@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 HELLO
+=======
+HELLO
+>>>>>>> Add H,E,L,L,O
